@@ -9,7 +9,8 @@
   "author": "Dileep",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0",
+    "ejs": "^2.5.2",
+    "express": "^3.0.0",
     "jade": "^1.11.0"
   }
 }
